@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f6ff;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+select, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 5px;
+}
+
+.question {
+  background: white;
+  padding: 15px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+}
+
+.question p {
+  margin-bottom: 8px;
+}
+
+button {
+  cursor: pointer;
+}
