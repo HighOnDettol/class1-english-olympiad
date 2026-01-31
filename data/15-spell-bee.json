@@ -1,0 +1,73 @@
+[
+  {"q":"Fill in the missing letter: The c_t is sleeping.","opts":["a","o","u","e"],"ans":1},
+  {"q":"Choose the word that fits: I have a ___ of water.","opts":["glas","glass","gloss","gless"],"ans":1},
+  {"q":"Fill the blank: She will ___ the race.","opts":["win","wen","whin","wyn"],"ans":0},
+  {"q":"Choose the correct word: The baby is ___ loudly.","opts":["crying","criying","cryeng","cryeing"],"ans":0},
+  {"q":"Fill in the blank: He rides a ___ to school.","opts":["bicycle","bycycle","bicicle","bisycle"],"ans":0},
+
+  {"q":"Choose the word that completes the sentence: The sky is ___ today.","opts":["cloudy","clowdy","cloudey","clodi"],"ans":0},
+  {"q":"Fill in the missing letter: The dog is br_v_ .","opts":["a","e","o","i"],"ans":1},
+  {"q":"Choose the word that fits: She has a ___ voice.","opts":["soft","sofft","sof","softe"],"ans":0},
+  {"q":"Fill in the blank: The bird can ___ high.","opts":["fly","fli","fliy","flie"],"ans":0},
+  {"q":"Choose the correct word: I ate a ___ apple.","opts":["juicy","juicie","juicyy","jucy"],"ans":0},
+
+  {"q":"Fill the blank: The teacher gave us ___ work.","opts":["homework","homewerk","homewark","homwork"],"ans":0},
+  {"q":"Choose the word that fits: The road is very ___.","opts":["narrow","narow","narro","naro"],"ans":0},
+  {"q":"Fill in the blank: He drank a cup of ___.","opts":["milk","melk","milck","mylk"],"ans":0},
+  {"q":"Choose the word that fits: The girl is very ___.","opts":["polite","polight","poleit","politte"],"ans":0},
+  {"q":"Fill the blank: The ___ is shining.","opts":["sun","son","san","sunn"],"ans":0},
+
+  {"q":"Choose the word that fits: The cake tastes ___.","opts":["sweet","sweat","swete","sweit"],"ans":0},
+  {"q":"Fill in the blank: The man wore a ___ hat.","opts":["black","blak","blaack","blok"],"ans":0},
+  {"q":"Choose the correct word: She opened the ___.","opts":["door","dor","doar","dore"],"ans":0},
+  {"q":"Fill the blank: The baby is ___ now.","opts":["asleep","asleap","aslip","asleepy"],"ans":0},
+  {"q":"Choose the word that fits: The box is ___.","opts":["heavy","hevy","heavey","haevy"],"ans":0},
+
+  {"q":"Fill in the blank: He is my best ___.","opts":["friend","freind","frend","freand"],"ans":0},
+  {"q":"Choose the word that fits: The cat has ___ eyes.","opts":["green","gren","grean","grin"],"ans":0},
+  {"q":"Fill the blank: The boy is very ___.","opts":["honest","onest","honust","honusty"],"ans":0},
+  {"q":"Choose the word that fits: The flowers smell ___.","opts":["nice","niec","nis","neice"],"ans":0},
+  {"q":"Fill in the blank: She reads every ___.","opts":["day","dae","dey","dai"],"ans":0},
+
+  {"q":"Choose the word that fits: The room is very ___.","opts":["clean","clen","cleen","cleane"],"ans":0},
+  {"q":"Fill the blank: The horse runs ___.","opts":["fast","fasst","fust","faast"],"ans":0},
+  {"q":"Choose the word that fits: The ___ barked loudly.","opts":["dog","daug","doog","dogg"],"ans":0},
+  {"q":"Fill in the blank: The story was very ___.","opts":["interesting","intresting","intersting","intristing"],"ans":0},
+  {"q":"Choose the correct word: She lost her ___.","opts":["pencil","pensil","pencel","pansil"],"ans":0},
+
+  {"q":"Fill the blank: The child feels ___.","opts":["hungry","hungery","hungri","hunggry"],"ans":0},
+  {"q":"Choose the word that fits: The bag is ___.","opts":["empty","emty","empety","empti"],"ans":0},
+  {"q":"Fill in the blank: The bell ___ loudly.","opts":["rang","run","ring","rung"],"ans":0},
+  {"q":"Choose the word that fits: The room was very ___.","opts":["quiet","quite","quyet","quiat"],"ans":0},
+  {"q":"Fill the blank: The girl ___ the door.","opts":["closed","cloesd","clossed","closd"],"ans":0},
+
+  {"q":"Choose the word that fits: The ___ is tall.","opts":["building","bulding","bilding","buildng"],"ans":0},
+  {"q":"Fill in the blank: He ___ the answer.","opts":["knew","new","now","no"],"ans":0},
+  {"q":"Choose the word that fits: The soup is ___.","opts":["hot","hat","hut","hit"],"ans":0},
+  {"q":"Fill the blank: The road was ___.","opts":["smooth","smoth","smoothe","smuth"],"ans":0},
+  {"q":"Choose the correct word: The bird built a ___.","opts":["nest","nist","nesst","neest"],"ans":0},
+
+  {"q":"Fill in the blank: She wore a ___ dress.","opts":["beautiful","beautifull","butiful","beautifal"],"ans":0},
+  {"q":"Choose the word that fits: The sky looks ___.","opts":["bright","brigt","brite","briht"],"ans":0},
+  {"q":"Fill the blank: The boy ___ his bag.","opts":["carried","carryed","caried","carryd"],"ans":0},
+  {"q":"Choose the word that fits: The dog is ___.","opts":["friendly","frendly","friendli","freindly"],"ans":0},
+  {"q":"Fill in the blank: The girl ___ the song.","opts":["sang","sing","song","sung"],"ans":0},
+
+  {"q":"Choose the word that fits: The fruit is ___.","opts":["fresh","freash","fresch","fress"],"ans":0},
+  {"q":"Fill the blank: The boy ___ the ball.","opts":["caught","cot","cought","catched"],"ans":0},
+  {"q":"Choose the word that fits: The book is ___.","opts":["useful","usefull","usful","yusful"],"ans":0},
+  {"q":"Fill in the blank: The sun ___ in the east.","opts":["rises","rises","rize","ryses"],"ans":0},
+  {"q":"Choose the correct word: The dog wagged its ___.","opts":["tail","tale","teil","tael"],"ans":0},
+
+  {"q":"Fill the blank: The boy was very ___.","opts":["careful","carefull","carefal","carful"],"ans":0},
+  {"q":"Choose the word that fits: The glass is ___.","opts":["fragile","fragil","fragiley","fragel"],"ans":0},
+  {"q":"Fill in the blank: The child ___ a picture.","opts":["drew","draw","drawn","drawing"],"ans":0},
+  {"q":"Choose the word that fits: The road is ___.","opts":["slippery","slipery","sliperry","slipary"],"ans":0},
+  {"q":"Fill the blank: The teacher ___ the lesson.","opts":["explained","explaind","explaned","explend"],"ans":0},
+
+  {"q":"Choose the word that fits: The flower is ___.","opts":["colourful","colorfull","colourfull","colorfuly"],"ans":0},
+  {"q":"Fill in the blank: The child ___ the truth.","opts":["spoke","speek","spock","speeked"],"ans":0},
+  {"q":"Choose the word that fits: The animal is ___.","opts":["dangerous","dangrous","dangerus","dangorous"],"ans":0},
+  {"q":"Fill the blank: The road was very ___.","opts":["dusty","dusti","dustey","dosty"],"ans":0},
+  {"q":"Choose the word that fits: The answer is ___.","opts":["correct","corect","corret","correcte"],"ans":0}
+]
